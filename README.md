@@ -36,3 +36,15 @@ week4
 7. 1
 8. vi^2/2 
 9. A, 0.6
+week5
+1. B > A > D > C
+2. A > B > C > D
+3. Yes
+4. No
+5. Second-price auctions.
+6. Both (1) and (2)
+7. Neither (1) nor (2)
+8. (1) (not (2))
+9. Ice cream transferred to Carol.
+10. 1
+11. 184 (not 178)
