@@ -27,12 +27,12 @@ week3
 9. Both shoes to Y
 10. 1. False; 2. True 
 week4
-1. not Both First-price and Second-price
+1. Second-price and Japanese 
 2. The Vickrey-Clarke-Groves mechanism
-3. not Third bidder, 0.9
+3. Third bidder, 0.6 
 4. All of the above
 5. b = 10
-6. not True
+6. False 
 7. 1
-8. not vi/2
+8. vi^2/2 
 9. A, 0.6
