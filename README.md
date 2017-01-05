@@ -26,3 +26,13 @@ week3
 8. The right shoe to X and the left shoe to Z
 9. Both shoes to Y
 10. 1. False; 2. True 
+week4
+1. not Both First-price and Second-price
+2. The Vickrey-Clarke-Groves mechanism
+3. not Third bidder, 0.9
+4. All of the above
+5. b = 10
+6. not True
+7. 1
+8. not vi/2
+9. A, 0.6
